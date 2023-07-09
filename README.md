@@ -12,7 +12,7 @@
 - Run seeder: php artisan db:seed
 - Optionally use built-in server: php artisan serve
 
-##Testing
+## Testing
 
 - Migration and seeding should be done automatially at the start of the test. The database is refreshed after tests are done.
 - Run tests: php artisan test
