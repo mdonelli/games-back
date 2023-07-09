@@ -1,8 +1,8 @@
-##Games App
+## Games App
 
 <p>This is an example project with php backend and angular frontend. The frontend is in another repository. The site lists games for the selected brand and country and filters blocked games.
 
-##Setup
+## Setup
 
 - Run composer install
 - Create a database and a test database for the project
